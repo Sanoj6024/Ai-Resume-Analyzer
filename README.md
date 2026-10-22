@@ -60,6 +60,3 @@ Skill matching relies on a predefined dictionary. Scanned PDFs may require OCR, 
 - Downloadable PDF reports
 - Semantic text matching
 - Online deployment
-
-
-No license has been specified yet.
