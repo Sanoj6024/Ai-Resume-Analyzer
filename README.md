@@ -1,7 +1,6 @@
 # 📄 AI Resume Analyzer
 
 An AI-powered resume analysis tool built with **Python, Streamlit, scikit-learn, and Docker**.
-
 Upload a resume, compare it with a job description, and identify matching skills and areas for improvement.
 
 ## ✨ Features
